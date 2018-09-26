@@ -13,7 +13,7 @@ public class Hewan {
     
     public static void testClassMethod()
     {
-        System.out.println("The Class Method in Hewan...");
+        System.out.println("The Class Method in hewan...");
     }
     
     public void testInstanceMethod()
